@@ -1,0 +1,16 @@
+D:\SOFTYARA\WSChat\WSChat\ChatClient\obj\Debug\ChatClient.csproj.AssemblyReference.cache
+D:\SOFTYARA\WSChat\WSChat\ChatClient\obj\Debug\ChatClient.csproj.SuggestedBindingRedirects.cache
+D:\SOFTYARA\WSChat\WSChat\ChatClient\obj\Debug\MainWindow.g.cs
+D:\SOFTYARA\WSChat\WSChat\ChatClient\obj\Debug\App.g.cs
+D:\SOFTYARA\WSChat\WSChat\ChatClient\obj\Debug\ChatClient_MarkupCompile.cache
+D:\SOFTYARA\WSChat\WSChat\ChatClient\obj\Debug\ChatClient_MarkupCompile.lref
+D:\SOFTYARA\WSChat\WSChat\ChatClient\bin\Debug\ChatClient.exe.config
+D:\SOFTYARA\WSChat\WSChat\ChatClient\bin\Debug\ChatClient.exe
+D:\SOFTYARA\WSChat\WSChat\ChatClient\bin\Debug\ChatClient.pdb
+D:\SOFTYARA\WSChat\WSChat\ChatClient\obj\Debug\MainWindow.baml
+D:\SOFTYARA\WSChat\WSChat\ChatClient\obj\Debug\ChatClient.g.resources
+D:\SOFTYARA\WSChat\WSChat\ChatClient\obj\Debug\ChatClient.Properties.Resources.resources
+D:\SOFTYARA\WSChat\WSChat\ChatClient\obj\Debug\ChatClient.csproj.GenerateResource.cache
+D:\SOFTYARA\WSChat\WSChat\ChatClient\obj\Debug\ChatClient.csproj.CoreCompileInputs.cache
+D:\SOFTYARA\WSChat\WSChat\ChatClient\obj\Debug\ChatClient.exe
+D:\SOFTYARA\WSChat\WSChat\ChatClient\obj\Debug\ChatClient.pdb
